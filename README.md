@@ -20,6 +20,7 @@ Or install it yourself as:
 
 ## Usage
 
+
 This is a sample gem
 
 ## Contributing

@@ -6,3 +6,5 @@ module SampleGem
 		end
   end
 end
+
+ActiveRecord::Base.send :include, SampleGem::Action
